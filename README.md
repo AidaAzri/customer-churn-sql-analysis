@@ -52,6 +52,12 @@ The analysis includes:
 8. Filtering and aggregation using `WHERE` and `HAVING`
 9. A `JOIN` demonstration using a supporting contract information table
 
+### Example SQL Analysis
+
+#### Churn Rate by Contract Type
+
+![Churn Rate by Contract Type](screenshots/churn_by_contract.png)
+
 ## Key Findings
 
 - Overall customer churn rate was **26.5%**.
