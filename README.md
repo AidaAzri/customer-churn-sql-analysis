@@ -65,7 +65,7 @@ The analysis includes:
 - Customers with 0–12 months of tenure had the highest churn rate at **47.4%**.
 - Customers using electronic checks had the highest churn rate among payment methods at **45.3%**.
 - Fiber optic customers had the highest churn rate among internet service types at **41.9%**.
-- Senior citizen customers had a higher churn rate than non-senior citizen customers (**41.5% vs. 23.6%**).
+- Senior citizen customers had a higher churn rate than non-senior citizen customers (**41.7% vs. 23.6%**).
 - Among month-to-month customers, fiber optic users had a churn rate of **54.6%**.
 - Among customers with 0–12 months of tenure, month-to-month customers had a churn rate of **51.4%**.
 - Among month-to-month customers, senior citizen customers had a churn rate of **54.6%**, compared with **39.6%** among non-senior citizen customers.
