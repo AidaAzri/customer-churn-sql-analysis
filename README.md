@@ -58,6 +58,12 @@ The analysis includes:
 
 ![Churn Rate by Contract Type](screenshots/churn_by_contract.png)
 
+## Power BI Dashboard
+
+The SQL analysis was further visualised in Power BI to explore customer churn patterns interactively.
+
+![Customer Churn & Retention Analysis Dashboard](screenshots/powerbi_dashboard.png)
+
 ## Key Findings
 
 - Overall customer churn rate was **26.5%**.
